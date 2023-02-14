@@ -1,23 +1,22 @@
 .btn {
-    height: min(5vw, 6%);
-    width: 50%;
-    margin-top: 2%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    max-width: 300px;
-  }
-  
-  .inner-btn {
-    border: none;
-    height: 100%;
-    width: 49%;
-    border-radius: 5px;
-    font-size: min(14px,3vw);
-  }
-  
-  .inner-btn:hover {
-    background-color: rgb(229, 229, 229);
-    cursor: pointer;
-  }
-  
+  height: min(5vw, 6%);
+  width: 50%;
+  margin-top: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 300px;
+}
+
+.inner-btn {
+  border: none;
+  height: 100%;
+  width: 49%;
+  border-radius: 5px;
+  font-size: min(14px, 3vw);
+}
+
+.inner-btn:hover {
+  background-color: rgb(229, 229, 229);
+  cursor: pointer;
+}
